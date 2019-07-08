@@ -1,6 +1,6 @@
 # graphics-town-webgl-practice 
 
-# Description
+### Description
 Fun graphics project built top of on gleicher's graphic's town framework.
 
 What I learned from this project:
