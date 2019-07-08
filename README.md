@@ -1,4 +1,11 @@
-# graphics-twon-webgl-practice 
+# graphics-town-webgl-practice 
 
 # Description
-GraphicsTown2015 in JavaScript - basic framework code for CS559 Project 2.
+Fun graphics project built top of on gleicher's graphic's town framework.
+
+What I learned from this project:
+- How to make objects using the graphics pipeline
+- How to use shaders to implement lighting (specular, diffuse, and ambient)
+- Basic texture application
+- Projection textures
+- How to implement a skybox using cube mapping
